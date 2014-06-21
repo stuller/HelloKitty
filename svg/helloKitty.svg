@@ -1,4 +1,8 @@
-<svg width="300px" height="350px" version="1.1" xmlns="http://www.w3.org/2000/svg" style="margin:0 auto">
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+        "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="300px" height="350px"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <path d="M45,75
              Q30,-15 100,30
